@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "364301968911",
+    "firebase_url": "https://ethnicarts-533fe.firebaseio.com",
+    "project_id": "ethnicarts-533fe",
+    "storage_bucket": "ethnicarts-533fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364301968911:android:5f912ba19f6d16b1",
+        "android_client_info": {
+          "package_name": "com.example.ethnicarts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364301968911-b81u88coeuh7hv7l20ijn5ss3djee53l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ethnicarts",
+            "certificate_hash": "a469736b2a9d4a51896462dc7484b74fb761b5ce"
+          }
+        },
+        {
+          "client_id": "364301968911-8iq13frjthnkhl1h22c4bjtkl6jqre0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE3_b_ieuqgrmDgSz0EVAvMQD_Octz1xY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364301968911-8iq13frjthnkhl1h22c4bjtkl6jqre0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
