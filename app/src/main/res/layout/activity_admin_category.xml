@@ -75,10 +75,10 @@
             android:src="@drawable/lamp" />
 
         <ImageView
-            android:id="@+id/vase"
+            android:id="@+id/handbags"
             android:layout_width="130dp"
             android:layout_height="80dp"
-            android:src="@drawable/vase" />
+            android:src="@drawable/handbag" />
 
     </LinearLayout>
 
