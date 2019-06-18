@@ -20,7 +20,7 @@
 
         />
     <LinearLayout
-        android:id="@+id/liner1_category_layout"
+        android:id="@+id/linear1_category_layout"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@+id/slogan_category"
@@ -52,10 +52,10 @@
     </LinearLayout>
 
     <LinearLayout
-        android:id="@+id/liner2_category_layout"
+        android:id="@+id/linear2_category_layout"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/liner1_category_layout"
+        android:layout_below="@+id/linear1_category_layout"
         android:orientation="horizontal"
         android:layout_centerHorizontal="true"
         android:gravity="center"
@@ -79,6 +79,69 @@
             android:layout_width="130dp"
             android:layout_height="80dp"
             android:src="@drawable/handbag" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linear3_category_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/linear2_category_layout"
+        android:orientation="horizontal"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:layout_marginTop="45dp"
+        >
+
+        <ImageView
+            android:id="@+id/music"
+            android:layout_width="130dp"
+            android:layout_height="80dp"
+            android:src="@drawable/music" />
+
+        <ImageView
+            android:id="@+id/handicrafts"
+            android:layout_width="130dp"
+            android:layout_height="80dp"
+            android:src="@drawable/handicrafts" />
+
+        <ImageView
+            android:id="@+id/jewellery"
+            android:layout_width="130dp"
+            android:layout_height="80dp"
+            android:src="@drawable/jewellery" />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/linear4_category_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/linear3_category_layout"
+        android:orientation="horizontal"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:layout_marginTop="45dp"
+        >
+
+        <ImageView
+            android:id="@+id/baskets"
+            android:layout_width="130dp"
+            android:layout_height="80dp"
+            android:src="@drawable/baskets" />
+
+        <ImageView
+            android:id="@+id/clothing"
+            android:layout_width="130dp"
+            android:layout_height="80dp"
+            android:src="@drawable/clothing" />
+
+        <ImageView
+            android:id="@+id/designs"
+            android:layout_width="130dp"
+            android:layout_height="80dp"
+            android:src="@drawable/designs" />
 
     </LinearLayout>
 
