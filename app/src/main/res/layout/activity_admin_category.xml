@@ -46,7 +46,7 @@
             android:id="@+id/masks"
             android:layout_width="130dp"
             android:layout_height="80dp"
-            android:src="@drawable/mask" />
+            android:src="@drawable/masks" />
 
 
     </LinearLayout>
@@ -138,10 +138,10 @@
             android:src="@drawable/clothing" />
 
         <ImageView
-            android:id="@+id/designs"
+            android:id="@+id/miscellaneous"
             android:layout_width="130dp"
             android:layout_height="80dp"
-            android:src="@drawable/designs" />
+            android:src="@drawable/miscellaneous" />
 
     </LinearLayout>
 

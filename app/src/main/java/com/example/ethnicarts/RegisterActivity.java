@@ -42,13 +42,13 @@ public class RegisterActivity extends AppCompatActivity {
         CreateAccountButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                CreateAccounr();
+                CreateAccount();
             }
         });
 
     }
 
-    private void CreateAccounr() {
+    private void CreateAccount() {
 
         String name = InputName.getText().toString();
         String phone = InputPhoneNumber.getText().toString();
