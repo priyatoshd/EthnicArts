@@ -14,6 +14,8 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="60dp"
         android:src="@drawable/logo"
+        android:background="@color/colorAccent"
+        android:alpha="0.5"
         />
     <TextView
         android:id="@+id/app_slogan"
@@ -29,6 +31,7 @@
         android:textStyle="bold"
         android:textSize="26sp"
         android:fontFamily="@font/ksfont"
+
                 />
     <Button
         android:id="@+id/main_login_btn"
